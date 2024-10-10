@@ -4,4 +4,4 @@ Here I present anothe project developed with React | TypeScript | Vite | Tailwin
 
 ## Website
 
-https://inspiring-youtiao-e5067d.netlify.app/
+https://order-calculator85.netlify.app/
